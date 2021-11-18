@@ -5,7 +5,7 @@
 
 
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+## Jogo interativvo de perguntas e de fácil jogabilidade.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
