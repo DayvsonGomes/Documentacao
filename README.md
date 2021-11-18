@@ -5,7 +5,7 @@
 
 
 
-## Jogo de perguntas de fácil jogabilidade.
+### Jogo de perguntas de fácil jogabilidade.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
